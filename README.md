@@ -3,6 +3,7 @@ Title:
      
      
  Business Problem:
+ 
                   In recent Years ,City Hotels and Resorts have seen high cancellation rates. Each                       hotel is now dealing with a number of issues as a result,including fewer revenues
                   and less than ideal hotel room use.Consequently ,Lowering Cancellation rates in both
                   hotel's Primary goal in order to increase their efficiency in generating Revenue
@@ -10,8 +11,11 @@ Title:
                   
                   
                   
+                  
+                  
  
 Insights:
+
          1. There are still 37% of Clients who cancelled their reservation ,which has a significant               impact on the Hotel'earnings.
             
          2. In Comparison to Resort hotels,City hotels have more booking.It's possible that resort                 hotels are more Expensive than those in Cities.
